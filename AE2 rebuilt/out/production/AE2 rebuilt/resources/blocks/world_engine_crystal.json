@@ -1,0 +1,7 @@
+{
+  "id": "elementalme:world_engine_crystal",
+  "category": "technical",
+  "hardness": 4.0,
+  "interactable": false,
+  "model": "models/world_engine_crystal.blockymodel"
+}

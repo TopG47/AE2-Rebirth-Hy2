@@ -1,0 +1,24 @@
+{
+  "type": "panel",
+  "id": "me_terminal_root",
+  "layout": "vertical",
+  "children": [
+    {
+      "type": "label",
+      "id": "title",
+      "text": "ME Terminal",
+      "style": "title"
+    },
+    {
+      "type": "label",
+      "id": "power",
+      "text": "Power: --",
+      "style": "info"
+    },
+    {
+      "type": "list",
+      "id": "item_list",
+      "item_height": 24
+    }
+  ]
+}

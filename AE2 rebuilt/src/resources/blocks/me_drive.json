@@ -1,0 +1,7 @@
+{
+  "id": "elementalme:me_drive",
+  "category": "technical",
+  "hardness": 3.0,
+  "interactable": false,
+  "model": "models/me_drive.blockymodel"
+}
